@@ -60,6 +60,13 @@ To get started with this demo application, please follow these steps:
    python main.py
    ```
 
+8. Next, observe the changes in Fibery and stages in the terminal
+
+[Watch the video](IMG/termainal.mp4)
+
+
+[Watch the video](IMG/pageview.mp4)
+
 ## API Documentation
 
 For detailed information on Fibery's REST API, please refer to the official documentation: [Fibery API Documentation](https://fibery.io/api-docs).
