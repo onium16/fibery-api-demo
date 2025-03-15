@@ -60,12 +60,14 @@ To get started with this demo application, please follow these steps:
    python main.py
    ```
 
-8. Next, observe the changes in Fibery and stages in the terminal
+8. Next, observe the changes in Fibery
+
+![alt text](IMG/pageview.gif)
+
+9. And observe the changes stages in the terminal
 
 ![alt text](IMG/termainal.gif)
 
-
-![alt text](IMG/pageview.gif)
 
 ## API Documentation
 
