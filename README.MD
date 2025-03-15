@@ -62,10 +62,10 @@ To get started with this demo application, please follow these steps:
 
 8. Next, observe the changes in Fibery and stages in the terminal
 
-[Watch the video](IMG/termainal.mp4)
+![alt text](IMG/termainal.gif)
 
 
-[Watch the video](IMG/pageview.mp4)
+![alt text](IMG/pageview.gif)
 
 ## API Documentation
 
