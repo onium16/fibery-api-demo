@@ -71,7 +71,7 @@ To get started with this demo application, please follow these steps:
 
 ## API Documentation
 
-For detailed information on Fibery's REST API, please refer to the official documentation: [Fibery API Documentation](https://fibery.io/api-docs).
+For detailed information on Fibery's REST API, please refer to the official documentation: [Fibery API Documentation](https://the.fibery.io/@public/User_Guide/Guide/Fibery-API-Overview-279).
 
 ## Contributing
 
