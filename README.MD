@@ -53,7 +53,7 @@ To get started with this demo application, please follow these steps:
 6. Create an app with the name for demonstration "TestSpace":
     6.1 Select "+"
     6.2 Select "Space" -> "From Scratch" -> Enter name "TestSpace"
-    ![alt text](IMG/image.png)
+    ![image.png](IMG/image.png)
 
 7. Run the application and explore the demo scenarios:
    ```sh
@@ -62,12 +62,21 @@ To get started with this demo application, please follow these steps:
 
 8. Next, observe the changes in Fibery
 
-![alt text](IMG/pageview.gif)
+![pageview](IMG/pageview.gif)
 
 9. And observe the changes stages in the terminal
 
-![alt text](IMG/termainal.gif)
+![termainal](IMG/termainal.gif)
 
+
+## Running Tests
+
+To ensure the functionality of the application, run the unit tests included in the tests/ directory:
+    ```sh
+    python -m unittest discover tests
+    ```
+
+This will automatically discover and execute all test cases, verifying that the integration with Fibery API is working as expected.
 
 ## API Documentation
 
