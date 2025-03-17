@@ -46,8 +46,8 @@ To get started with this demo application, please follow these steps:
 
 5. Create and configure your Fibery API credentials and workspace settings in a `.env` file:
    ```sh
-   FIBERY_TOKEN=your_api_token
-   FIBERY_WORKSPACE=your_workspace
+   API_FIBERY_URL='https://<you_nickname>.fibery.io/api/commands'
+   API_FIBERY_TOKEN=your_fibery_api_token
    ```
 
 6. Create an app with the name for demonstration "TestSpace":
