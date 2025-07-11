@@ -66,7 +66,7 @@ To get started with this demo application, please follow these steps:
 
 9. And observe the changes stages in the terminal
 
-![terminal](IMG/termainal.gif)
+![terminal](IMG/terminal.gif)
 
 
 ## Running Tests
